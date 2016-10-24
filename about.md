@@ -7,7 +7,7 @@ navbar-order: 4
 
 I'm sorry there isn't much about myself here yet. I'd love to talk more about my professional life, projects and hobbies but I haven't had much time in the last few days. I intent to update this page more often so please stay tuned. ;)
 
-My name is Fernando Silveira, I'm 34 years old, married, I have two wonderful childs and I'm a proud geek. I'm a software developer that loves [Linux](http://www.kernel.org), [command line interfaces](http://en.wikipedia.org/wiki/Command-line_interface) and (of course) computer programming.
+My name is Fernando Silveira, I'm 35 years old, married, I have two wonderful children and I'm a geek. I'm a software developer that loves [Linux](http://www.kernel.org), [command line interfaces](http://en.wikipedia.org/wiki/Command-line_interface) and (of course) computer programming.
 
 I've been using Linux as my preferred operating system since 1997 and C/C++ as my main programming language since 2001. I've never been very good with GUI (graphical user interfaces) and my desktops/workstations are "ugly". And by "ugly" I mean [2 big LCD screens](http://www.flickr.com/photos/swrh/5527205850/) with a black background and lots of xterms. No wallpapers, graphical effects or icons. Here is a screenshot of my desktop in 2004:
 
