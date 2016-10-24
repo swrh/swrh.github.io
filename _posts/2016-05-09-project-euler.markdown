@@ -2,7 +2,6 @@
 layout: post
 title:  "Project Euler"
 date:   2016-05-09 21:16:00 -0300
-categories: cpp project-euler
 ---
 After doing some interviews I just realized I have much to learn in the algorithms field. I failed a couple of tests miserably and I decided it's time to improve my algorithm skills.
 
