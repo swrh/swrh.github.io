@@ -31,4 +31,10 @@
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ "/atom.xml" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+  <script>
+    if (window.location.host.substr(-10) == '.github.io' && window.location.protocol != 'https:') {
+      window.location.protocol = 'https:';
+    }
+  </script>
 </head>
