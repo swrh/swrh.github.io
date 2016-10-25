@@ -1,11 +1,9 @@
 # Site settings
 title: Fernando Silveira
 email: fsilveira@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Here you can find my personal software projects and development experiences
-  I like to share.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://swrh.github.io" # the base hostname & protocol for your site
+description: a.k.a. <a href="https://twitter.com/swrh" target="_blank">@swrh</a>
+baseurl:
+url: https://swrh.github.io
 twitter_username: swrh
 github_username:  swrh
 linkedin_username: fgsilveira
@@ -13,3 +11,6 @@ aboutme_username: swrh
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5

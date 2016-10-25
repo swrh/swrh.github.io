@@ -21,4 +21,4 @@ My configuration files are available [here](https://github.com/{{ site.github_us
 
 If you wish to get in touch with me I'm available in [Twitter](https://twitter.com/{{ site.twitter_username }}) and [LinkedIn](http://br.linkedin.com/in/{{ site.linkedin_username }}). You can find in my [about.me](http://about.me/{{ site.aboutme_username }}) page links to more sites and social networks I'm in. My e-mail is on the bottom of every page of this site and you can write me whenever you want. I'll be happy to answer you promptly.
 
-Thanks! ;)
+Thanks for reading! ;)
