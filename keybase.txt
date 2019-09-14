@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/swrh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://swrh.github.io
+  * I am swrh (https://keybase.io/swrh) on keybase.
+  * I have a public key ASBaAB5rrnDX6EXEA3f0_wjc-blD22YesADfeB8kbs1p6Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201e7b4e5feceb8864ae7cd0a6d72ad151c7d60970b781e235fc5f8951c40eae890a",
+      "host": "keybase.io",
+      "kid": "01205a001e6bae70d7e845c40377f4ff08dcf9b943db661eb000df781f246ecd69e90a",
+      "uid": "2e7ef488983bd0668297454543853319",
+      "username": "swrh"
+    },
+    "merkle_root": {
+      "ctime": 1568422454,
+      "hash": "ee5181962c9293fe8a6bcfe12a2e06bd8ec69cffb0c3c71cf11aed07d6db8b2d744460b4de83f07d9294ffb6ca8877c14e138eb9b27662f29bd3ec345ad5d8c1",
+      "hash_meta": "1772f1e93516ac094f3b4ff23507a205ad49df192d2fa62b76b14f911212a3c7",
+      "seqno": 7234031
+    },
+    "service": {
+      "entropy": "UhHdivJ9S9FvFpmz/9BK6ucp",
+      "hostname": "swrh.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568422459,
+  "expire_in": 504576000,
+  "prev": "2c9c01ed8af8c11be8aac2f3e316554cf6efdc6acda58d133c394ece028cac62",
+  "seqno": 38,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWgAea65w1+hFxAN39P8I3Pm5Q9tmHrAA33gfJG7NaekKp3BheWxvYWTESpcCJsQgLJwB7Yr4wRvoqsLz4xZVTPbv3GrNpY0TPDlOzgKMrGLEILCMuLgSiAYEwY+640Ltx7K1+HHbmAxm7WJ94+Dy1OFBAgHCo3NpZ8RACxhhIEEzUpLYkDWFg5T25UPNo1uB9vj3V92dWsCbVESIxMe8aDrnMlrEYe9EqoG0L5+0a3BYnuwx+rG4qFeqDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOsa8iEqSrNF7VbmYROgkSHWkXM6TJPMZHxknUIeONWyo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/swrh
+
+==================================================================
