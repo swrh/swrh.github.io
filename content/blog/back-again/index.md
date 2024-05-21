@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I hit the wall, again."
+title:  "I hit the wall, again"
 date:   2017-07-19 19:20:40 -0300
 ---
 After hitting the wall in a mock interview I decided to reboot this project. I nailed the offline test I have been given but I failed miserably in the mock interview due to lack of preparation. I feel I need to exercise a lot my coding interview skills and this is what I'm going to do.
