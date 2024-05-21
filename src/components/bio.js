@@ -18,9 +18,6 @@ const Bio = () => {
             name
             summary
           }
-          social {
-            twitter
-          }
         }
       }
     }
@@ -44,7 +41,7 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          written by <strong>{author.name}</strong>{summary ? `, ${summary}` : null}
+          Written by <strong>{author.name}</strong>{summary ? `, ${summary}` : null}
         </p>
       )}
     </div>

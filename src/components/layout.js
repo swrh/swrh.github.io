@@ -1,7 +1,23 @@
 import * as React from "react"
+import { useStaticQuery, graphql } from "gatsby"
 import { Link } from "gatsby"
 
 const Layout = ({ location, title, children }) => {
+  const data = useStaticQuery(graphql`
+    query LayoutQuery {
+      site {
+        siteMetadata {
+          author {
+            name
+          }
+        }
+      }
+    }
+  `)
+
+  // Set these values by editing "siteMetadata" in gatsby-config.js
+  const author = data.site.siteMetadata?.author
+
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
   let header
@@ -25,9 +41,9 @@ const Layout = ({ location, title, children }) => {
       <header className="global-header">{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Built with
+        © 2016-{new Date().getFullYear()} -
         {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
+        {author?.name}
       </footer>
     </div>
   )
